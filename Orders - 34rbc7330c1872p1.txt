@@ -1,0 +1,8 @@
+Order Code: 34rbc7330c1872p1
+Date and Time Ordered: 2024-09-10 12:26:38
+Items:
+Product ID: 4
+Product Name: 5Kg Cornstarch
+Price: 300 PHP
+------
+Total Price: 300 PHP

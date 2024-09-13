@@ -1,0 +1,8 @@
+Order Code: 8401ee72ot8f68up
+Date and Time Ordered: 2024-09-10 22:55:30
+Items:
+Product ID: 2
+Product Name: 5Kg Rice
+Price: 550 PHP
+------
+Total Price: 550 PHP
